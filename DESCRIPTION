@@ -1,11 +1,11 @@
 Package: firstPackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Package calcule the actual discount for 30% rate and custom input rate
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Ibrahim Bello
+Maintainer: Ibrahim Bello <ibb4u2006@yahoo.com>
+Description: With discount function you can calculate the actual discount for 30% discount rate of a list price.
+    With discountWithRate function you can insert custom discount rate with the list price as parameters to calculate the actual discount rate
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
